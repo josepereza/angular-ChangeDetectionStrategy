@@ -1,7 +1,17 @@
 # AngularPerformance
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.3.
+## Tenemos varias ramas a elegir. 
+## Para cambiarnos de rama hacemos:
+* git branch -a //para ver todas las ramas
+* git checkout 1-onpush  // para cambiarnos de rama
+* git pull   // para actualizar la copia local.
+* git checkout master  /para volver a la rama master
 
+### link:
+* https://mariogl.com/git-bajar-todas-las-nuevas-ramas-del-repositorio-remoto/
+* http://www.7sabores.com/blog/descargar-un-branch-remoto-cuando-usamos-git
+* https://rogerdudler.github.io/git-guide/index.es.html
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
