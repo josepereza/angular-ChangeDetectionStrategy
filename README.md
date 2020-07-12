@@ -1,7 +1,7 @@
 # AngularPerformance
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.3.
-Tenemos varias ramas a elegir. 
+## Tenemos varias ramas a elegir. 
 ## Para cambiarnos de rama hacemos:
 * git branch -a //para ver todas las ramas
 * git checkout 1-onpush  // para cambiarnos de rama
