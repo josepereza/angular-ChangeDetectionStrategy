@@ -6,6 +6,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 * git branch -a //para ver todas las ramas
 * git checkout 1-onpush  // para cambiarnos de rama
 * git pull   // para actualizar la copia local.
+* git pull origin 1-onpush // Ejecutar esta linea si la anterior no funciona
 * git checkout master  /para volver a la rama master
 
 ### link:
