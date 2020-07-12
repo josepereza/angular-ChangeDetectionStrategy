@@ -25,8 +25,13 @@ export class EmployeeListComponent implements OnInit {
   ngOnInit() {
   }
 
-  addEmployee(event: Event) {
+  addEmployee(event: any) {
     event.preventDefault();
+    
+    //dos formas de obtener el valor del input 
+    console.log('valor input ', event.target.value)
+    console.log('valor input ', this.input.value)
+    
     this.add.emit(this.input.value);
     this.input.setValue('');
   }
